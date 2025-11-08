@@ -1,0 +1,11 @@
+#basic math operations with variables
+
+sum = 5 + 9
+subs = 6 - 3
+multiplication = 8 * 4
+division = 12/4
+
+print(sum)
+print(subs)
+print(multiplication)
+print(division)
