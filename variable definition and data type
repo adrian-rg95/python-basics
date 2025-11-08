@@ -1,0 +1,13 @@
+# variable definition and data type
+
+string = "hello world"
+integer = 10
+float = 2.5
+boolean1 = True
+boolean2 = False
+
+print(string)
+
+print(integer * integer)
+
+print(float + float)
